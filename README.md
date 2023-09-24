@@ -1,5 +1,5 @@
 ![alt text](https://github.com/markgrahamdawson/michel-thomas-spanish//blob/main/screenshot.png?raw=true)
-
+https://raw.githubusercontent.com/markgrahamdawson/michel-thomas-spanish/main/screengrab.png
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
