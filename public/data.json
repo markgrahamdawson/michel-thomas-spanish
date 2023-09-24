@@ -1,0 +1,275 @@
+{
+  "data": {
+    "CD1" : {
+      "Part 1": [
+        {
+          "id" : 101, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ],
+      "Part 2": [
+        {
+          "id" : 102, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ]
+    },
+    "CD2" : {
+      "Part 1": [
+        {
+          "id" : 201, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ],
+      "Part 2": [
+        {
+          "id" : 202, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ]
+    },
+    "CD3" : {
+      "Part 1": [
+        {
+          "id" : 301, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ],
+      "Part 2": [
+        {
+          "id" : 302, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ]
+    },
+    "CD4" : {
+      "Part 1": [
+        {
+          "id" : 401, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ],
+      "Part 2": [
+        {
+          "id" : 402, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        }
+      ]
+    },
+    "CD5" : {
+      "Part 1": [
+        {
+          "id" : 501, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+
+        },
+        {
+          "id" : 502, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to eat",
+            "translation" : "comer"
+          }
+        },
+        {
+          "id" : 503, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to understand",
+            "translation" : "comprender"
+          }
+        },
+        {
+          "id" : 504, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to come",
+            "translation" : "venir"
+          }
+        },
+        {
+          "id" : 505, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to leave",
+            "translation" : "salir"
+          }
+        },
+        {
+          "id" : 506, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to do, to make",
+            "translation" : "hacer"
+          }
+        },
+        {
+          "id" : 507, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to say, to tell",
+            "translation" : "decir"
+          }
+        },
+        {
+          "id" : 508, 
+          "type" : "translation",
+          "data" : {
+            "english" : "I want",
+            "translation" : "quiero"
+          }
+        },
+        {
+          "id" : 509, 
+          "type" : "translation",
+          "data" : {
+            "english" : "I can",
+            "translation" : "puedo"
+          }
+        },
+        {
+          "id" : 510, 
+          "type" : "translation",
+          "data" : {
+            "english" : "to speak",
+            "translation" : "hablar"
+          }
+        },
+        {
+          "id" : 511, 
+          "type" : "translation",
+          "data" : {
+            "english" : "I speak",
+            "translation" : "hablo"
+          }
+        },
+        {
+          "id" : 512, 
+          "type" : "translation",
+          "data" : {
+            "english" : "I dont speak",
+            "translation" : "no hablo"
+          }
+        },
+        {
+          "id" : 513, 
+          "type" : "translation",
+          "data" : {
+            "english" : "I understand ",
+            "translation" : "comprendo"
+          }
+        },
+        {
+          "id" : 514, 
+          "type" : "translation",
+          "data" : {
+            "english" : "I don't understand",
+            "translation" : "no comprendo"
+          }
+        },
+        {
+          "id" : 515, 
+          "type" : "translation",
+          "data" : {
+            "english" : "you understand ",
+            "translation" : "comprende"
+          }
+        },
+        {
+          "id" : 516, 
+          "type" : "translation",
+          "data" : {
+            "english" : "do you understand it?",
+            "translation" : "¿lo comprende?"
+          }
+        },
+        {
+          "id" : 517, 
+          "type" : "translation",
+          "data" : {
+            "english" : "do you understand me?",
+            "translation" : "¿me comprende?"
+          }
+        },
+        {
+          "id" : 518, 
+          "type" : "translation",
+          "data" : {
+            "english" : "don't you understand me?",
+            "translation" : "¿no me comprende?"
+          }
+        },
+        {
+          "id" : 519, 
+          "type" : "translation",
+          "data" : {
+            "english" : "why don't you understand me?",
+            "translation" : "¿por qué no me comprende?"
+          }
+        },
+        {
+          "id" : 520, 
+          "type" : "translation",
+          "data" : {
+            "english" : "they understand",
+            "translation" : "comprenden"
+          }
+        },
+        {
+          "id" : 521, 
+          "type" : "translation",
+          "data" : {
+            "english" : "you speak",
+            "translation" : "habla"
+          }
+        }
+      ],
+      "Part 2": [
+        {
+          "id" : 522, 
+          "type" : "wisdom",
+          "data" : {
+            "english" : "all Spanish vowels are pronounced clearly, regardless of whether they are stressed or not",
+            "translation" : ""
+          }
+        }
+      ]
+    }
+  }
+}
