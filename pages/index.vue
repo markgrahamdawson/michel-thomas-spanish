@@ -71,7 +71,7 @@ const { data } = await useFetch<APIBody >('http://localhost:3000/data.json')
 courses.value = Object.keys( data.value.data )
 
 function selectCourse(course:Courses){
-  courseSelected.value = data?.value?.data[course]['Part 2']
+  courseSelected.value = data?.value?.data[course]['Part 1']
   conceptSelected.value = 
     { "id": 0,
       "type": "",
